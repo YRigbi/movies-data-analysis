@@ -42,11 +42,6 @@ The dataset includes:
 
 ---
 
-## 📸 Dashboard Preview
-> *(Insert a screenshot of the Power BI dashboard here)*
-
----
-
 ## 📁 Files Included
 - `movies_data.xlsx` – Cleaned Excel dataset
 - `movies_dashboard.pbix` – Power BI dashboard file
